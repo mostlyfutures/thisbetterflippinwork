@@ -1,0 +1,12 @@
+/Users/gdove/Desktop/25FALL LIB/C++/proj.wifibipper/build/CMakeFiles/wifi-scanner.dir
+/Users/gdove/Desktop/25FALL LIB/C++/proj.wifibipper/build/CMakeFiles/test_security_grader.dir
+/Users/gdove/Desktop/25FALL LIB/C++/proj.wifibipper/build/CMakeFiles/benchmark.dir
+/Users/gdove/Desktop/25FALL LIB/C++/proj.wifibipper/build/CMakeFiles/package.dir
+/Users/gdove/Desktop/25FALL LIB/C++/proj.wifibipper/build/CMakeFiles/package_source.dir
+/Users/gdove/Desktop/25FALL LIB/C++/proj.wifibipper/build/CMakeFiles/test.dir
+/Users/gdove/Desktop/25FALL LIB/C++/proj.wifibipper/build/CMakeFiles/edit_cache.dir
+/Users/gdove/Desktop/25FALL LIB/C++/proj.wifibipper/build/CMakeFiles/rebuild_cache.dir
+/Users/gdove/Desktop/25FALL LIB/C++/proj.wifibipper/build/CMakeFiles/list_install_components.dir
+/Users/gdove/Desktop/25FALL LIB/C++/proj.wifibipper/build/CMakeFiles/install.dir
+/Users/gdove/Desktop/25FALL LIB/C++/proj.wifibipper/build/CMakeFiles/install/local.dir
+/Users/gdove/Desktop/25FALL LIB/C++/proj.wifibipper/build/CMakeFiles/install/strip.dir
