@@ -1,3 +1,4 @@
+#ifdef __APPLE__
 #include "platforms/MacWifiScanner.h"
 #include <iostream>
 #include <sstream>
@@ -294,3 +295,7 @@ int MacWifiScanner::estimateDataRate(int frequency, int channelWidth) const {
 }
 
 } // namespace WifiScanner
+
+#else
+#error "CoreWLAN is not supported on non-macOS platforms."
+#endif

@@ -4,6 +4,7 @@
 #include <unordered_map>
 #include <chrono>
 #include <iostream>
+#include <cmath>
 
 namespace WifiScanner {
 
